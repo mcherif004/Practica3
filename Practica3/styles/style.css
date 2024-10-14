@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 240px;
+    text-align: center;
+}
+
+h1 {
+    color: #000;
+}
+
+p {
+    font-family: 'Times New Roman', Times, sans-serif;
+    font-size: 20px;
+}
+
+.feature {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.supported {
+    background-color: #d4edda;
+    color: #155724;
+}
+
+.not-supported {
+    background-color: #f8d7da;
+    color: #721c24;
+}
